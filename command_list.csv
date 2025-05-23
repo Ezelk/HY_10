@@ -1,0 +1,500 @@
+   25  clear
+   26  cls
+   27  pwd
+   28  cd desktop
+   29  pwd
+   30  ls
+   31  dir
+   32  cd HW_10
+   33  PWD
+   34  pwd
+   35  cd HW_10
+   36  pwd
+   37  git clone https://github.com/Ezelk/HW_10.git
+   38  cd HW_10
+   39  git branch
+   40  git branch develop
+   41  git branch
+   42  git add .
+   43  git commit -m ""kayt"
+   44  git config --gloabal user.name ezel
+   45  git config --gloabal user.email kutluezel1234@gmail.com
+   46  git branch
+   47  clear
+   48  pwd
+   49  cd desktop
+   50  pwd
+   51  s ls
+   52  ls
+   53  cd HW_10
+   54  PWD
+   55  git config --gloabal user.name ezel
+   56  git gloabal --user.email kutluezel1234@gmail.com
+   57  pwd
+   58  git branch
+   59  git branch
+   60  git branch
+   61  git config --gloabal user.name ezel
+   62  git config  --gloabal user.email kutluezel1234@gmail.com
+   63  pwd
+   64  cd HW_10
+   65  pwd
+   66  git branch
+   67  git branch develop
+   68  git branch
+   69  git add .
+   70  git commit -m"mm"
+   71  git checkout develop
+   72  gi
+   73  git branch
+   74  git add .
+   75  git commit -m""ikinci branch"
+   76  clear
+   77  cd desktop
+   78  pwd
+   79  cd HW_10
+   80  PWD
+   81  clear
+   82  cd desktop
+   83  clear
+   84  pwd
+   85  clear
+   86  cd desktop
+   87  pwd
+   88  cd HW_10
+   89  pwd
+   90  git clone https://github.com/Ezelk/HW_10.git
+   91  cd HW_10
+   92  clear
+   93  git clone https://github.com/Ezelk/HW_10.git
+   94  clear
+   95  git clone https://github.com/Ezelk/HW_10.git
+   96  pwd
+   97  git desktop
+   98  clear
+   99  pwd
+  100  cd desktop
+  101  pwd
+  102  clone https://github.com/Ezelk/HW_10.git
+  103  git clone https://github.com/Ezelk/HW_10.git
+  104  cd HW_10
+  105  pwd
+  106  git status
+  107  touch tester.txt
+  108  touch text_ignore.txt
+  109  git add .
+  110  git commit -m "yenidosya"
+  111  touch main_test.txt
+  112  git add .
+  113  git commit -m "yenidosya1"
+  114  git branch
+  115  git branch develop
+  116  git branch
+  117  git checkout develop
+  118  git branch
+  119  touch develop_test.txt
+  120  git add .
+  121  git commit -m "yenibranchdosyas"
+  122  git status
+  123  git add .
+  124  git commit-m "değişiklik"
+  125  git checkout main
+  126  git merge develop
+  127  git log
+  128  git push
+  129  git add .
+  130  git commit -m "uzak depo"
+  131  git push -u origin main
+  132  pwd
+  133  cd desktop
+  134  pwd
+  135  pwd
+  136  cd desktop
+  137  cd HWWW_10
+  138  git clone https://github.com/Ezelk/HWWW_10.git
+  139  git status
+  140  git add .
+  141  git status
+  142  git commit -m "selam"
+  143  git push origin
+  144  clear
+  145  git config --gloabal user.name Ezel
+  146  git config --gloabal user.email kutluezel1234@gmail.com
+  147  cd HWWW_10
+  148  git clone https://github.com/Ezelk/HWWW_10.git
+  149  cd HWWW_10
+  150  git status
+  151  git add .
+  152  git commit -m "update readme selama"
+  153  git push origin
+  154  git push origin main
+  155  git branc
+  156  git branch
+  157  git remote -v
+  158  clear
+  159  PWD
+  160  cd desktop
+  161  pwd
+  162  pwd
+  163  cd desktop
+  164  pwd
+  165  git clone https://github.com/Ezelk/HHW_10.git
+  166  git config --gloabal user.name Ezelk
+  167  git config --gloabal user.email kutluezel1234@gmail.com
+  168  git add .
+  169  git commit -m "update readme BAŞARACAĞIZ" 
+  170  git push origin
+  171  git push origin main
+  172  git remote -v
+  173  git remote -v
+  174  clear
+  175  git remote -v
+  176  cd HHW_10
+  177  clear
+  178  cd HHW_10
+  179  git add .
+  180  git commit -m "update yapıldı gitignore dosyasında"
+  181  git push main
+  182  git config --global user.name Ezelk
+  183  git config --global user.email kutluezel1234@gmail.com
+  184  git add .
+  185  git commit -m "update yapıldı gitignore dosyasında"
+  186  git push main
+  187  cd desktop
+  188  clear
+  189  cd HHW_10
+  190  git add .
+  191  git commit -m "update ile yaptım"
+  192  git push main
+  193  git config --global user.name Ezelk
+  194  git config --global user.email kutluezel1234@gmail.com
+  195  cd desktop
+  196  pwd
+  197  cd HHW_10
+  198  git add .
+  199  git commit -m "update ile
+  200  git commit -m "update ile"
+  201  clear
+  202  cd desktop
+  203  pwd
+  204  cd HHW_10
+  205  git add .
+  206  git commit -m ""update"
+  207  cd desktop
+  208  cd HHW_10
+  209  touch text_ignore.txt
+  210  git add .
+  211  git commit -m "update ile "
+  212  git push main
+  213  git config --global user.name Ezelk
+  214  git config --global user.email kutluezel1234@gmail.com
+  215  cd desktop
+  216  cd HHW_10
+  217  git add .
+  218  git commit -m "update ile"
+  219  git push main
+  220  git clone https://github.com/Ezelk/HHW_10.git
+  221  cd HHW_10
+  222  git add .
+  223  git commit -m"update"
+  224  git push origin main
+  225  git branch
+  226  git  remote -v
+  227  clear
+  228  cd desktop
+  229  cd HHW_10
+  230  git clone https://github.com/Ezelk/HHW_10.git
+  231  git config --global user.name Ezelk
+  232  git config --global user.email kutluezel1234@gmail.com
+  233  git add .
+  234  git commit -m "değişim"
+  235  git push origin main
+  236  clear
+  237  pwd
+  238  cd desktop
+  239  git clone https://github.com/kEzelk/HW_10.git
+  240  pwd
+  241  cd HW_10
+  242  touch text_ignore.txt
+  243  git add .
+  244  git commit -m " update ignore dosyasında"
+  245  push origin main
+  246  clear
+  247  git config --global user.name kEzelk
+  248  git config --global user.email kutluuezell2@gmail.com
+  249  git add .
+  250  git commit -m "update ignore dosyasında"
+  251  git push origin main
+  252  git push
+  253  clear
+  254  git config --global user.name kEzelk
+  255  git config --global user.email kutluuezell2@gmail.com
+  256  cd desktop
+  257  git branch
+  258  clear
+  259  git clone https://github.com/kEzelk/HW_10.git
+  260  git branch
+  261  clear
+  262  cd desktop
+  263  git clone https://github.com/kEzelk/HW_10.git
+  264  cd HW_10
+  265  git config --global user.name kEzelk
+  266  git config --global user.email kutluuezell2@gmail.com
+  267  touch text_ignore.txt
+  268  git add .
+  269  git commit -m ".gitignore" update ile gitgnore de değişiklik"
+  270  git commit -m "gitgnore de update ile değişiklik"
+  271  git push origin main
+  272  clear
+  273  cd desktop
+  274  git clone https://github.com/kEzelk/HW_10.git
+  275  cd HW_10
+  276  git config --global user.name kEzelk
+  277  git config --global user.email kutluuezell2@gmail.com
+  278  touch text_ignore.txt
+  279  git add .
+  280  git commit -m "dosyadaki update"
+  281  git push origin main
+  282  git push
+  283  git push main
+  284  clear
+  285  cd desktop
+  286  git config --global user.name kEzelk
+  287  git config --global user.email kutluuezell2@gmail.com
+  288  cd HW_10
+  289  git add .
+  290  git  commit -m "update  ile"
+  291  git push
+  292  git remote -v
+  293  git push
+  294  pwd
+  295  clear
+  296  git clone https://github.com/kEzelk/HW_10.git
+  297  cd HW_10
+  298  git add .
+  299  git commit -m "uodatele"
+  300  git push
+  301  git push main
+  302  clea
+  303  clear
+  304  cd desktop
+  305  git clone https://github.com/kEzelk/HW_10.git
+  306  pwd
+  307  cd HW_10
+  308  git config --global user.name kEzelk
+  309  git config --global user.email kutluuezell2@gmail.com
+  310  git add .
+  311  git commit -m "update ignore dosyasında"
+  312  git push
+  313  git remote -v
+  314  cd desktop
+  315  pwd
+  316  cd HW_10.git
+  317  git add .
+  318  git commit -m "değişim"
+  319  git push
+  320  pwd
+  321  cd desktop
+  322  git clone https://github.com/kEzelk/HWW_10.git
+  323  pwd
+  324  cd HWW_10
+  325  git config --global user.name kEzelk
+  326  git config --global user.email kutluuezell2@gmail.com
+  327  git add .
+  328  git commit -m"update"
+  329  git push
+  330  git push
+  331  git push main
+  332  git push origin main
+  333  git branch
+  334  clear
+  335  git config --global user.email kutluuezell2@gmail.com
+  336  git config user.email
+  337  git config user.name
+  338  cd desktop
+  339  cd HWW_10
+  340  git add .
+  341  git commit -m"değişti"
+  342  git push origin main
+  343  git remote -v
+  344  clear
+  345  git config --global user.name Ezelk
+  346  git config --global user.email kutluezel1234@gmail.com
+  347  git config user.email
+  348  git config user.name
+  349  cd desktop
+  350  git clone https://github.com/Ezelk/HHWW_10.git
+  351  cd HHWW_10
+  352  git add .
+  353  git commit -m "ignore dosyasında update oldu"
+  354  git push
+  355  touch main_test.txt
+  356  git add .
+  357  git commit -m"yeni dosya olusturuldu"
+  358  git push
+  359  git branch develop
+  360  branch
+  361  git branch
+  362  git checkout develop
+  363  git branch
+  364  git add .
+  365  git commit -m"develop dalı oluşturuldu"
+  366  git push
+  367  git checkout -b develop
+  368  git add .
+  369  git commit -m"develop dalı oluşturuldu"
+  370  git push
+  371  git  push origin develop
+  372  git branch
+  373  touch develop_test.txt
+  374  git add .
+  375  git commit -m"develop dalında dosya oluşturuldu"
+  376  git push
+  377  cd HHWW_10
+  378  git add .
+  379  git commit -m"dosyaya yazı yazıldı"
+  380  git push
+  381  git add develop_test.txt
+  382  git commit -m"eklendi"
+  383  git push
+  384  git push origin develop
+  385  git checkout main
+  386  git branch
+  387  git merge develop
+  388  git add .
+  389  git commit -m"dallar birleşti"
+  390  git push origin main
+  391  git branch
+  392  git  log
+  393  git init
+  394  git BASH
+  395  git add history>command_list.csv
+  396  git add .
+  397  git commit -m"uzakdepoda"
+  398  git push origin main
+  399  git add veriler.xlsx
+  400  git commit -m"excel dosyasına veri eklendi"
+  401  git push origin maini
+  402  git push origin main
+  403  git BASH
+  404  git add .
+  405  git commit -m "uzak depoda csv formatında"
+  406  git push
+  407  pwd
+  408  cd desktop
+  409  git clone https://github.com/Ezelk/HE_10.git
+  410  cd HE_10
+  411  git add .
+  412  git commit -m"dosyada update"
+  413  git push origin main
+  414  touch main_test.txt
+  415  git add .
+  416  git commit -m"HE_10 kalsörüne yeni dosya eklendi"
+  417  git push origin main
+  418  git branch develop
+  419  git add .
+  420  git commit -m"yeni develop dalı oluştu"
+  421  git push origin main
+  422  git branch
+  423  git checkout develop
+  424  git branch
+  425  git add .
+  426  git commit -m"yeni develop dalı oluşturuldu"
+  427  git push origin main
+  428  git branch
+  429  git branch develop
+  430  git add .
+  431  git commit -m"yeni develop dalı"
+  432  git push origin develop
+  433  git branch
+  434  touch develop_test.txt
+  435  git add .
+  436  git commit -m"develop dalında yeni dosya oluşturuldu"
+  437  git push origin develop
+  438  git checkout main
+  439  git branch
+  440  git add .
+  441  git commit -m"ana daldayım"
+  442  git merge develop
+  443  git add .
+  444  git commit -m"dallar birleşti"
+  445  git push origin main
+  446  history>command_list.csv
+  447  git add .
+  448  git commit -m"ödev dosyası oludutuldu"
+  449  git push
+  450  git push origin main
+  451  git push origin main
+  452  git add .
+  453  git add command_list.txt
+  454  git commit -m"uzakdepoda"
+  455  git push origin main
+  456  git push HE_10
+  457  history>command_list.csv
+  458  git add .
+  459  git commit -m"uzak depoya gidecek ödev"
+  460  git push origin main
+  461  pwd
+  462  cd desktop
+  463  git clone https://github.com/Ezelk/HM_10.git
+  464  cd HM_10
+  465  git add .
+  466  git commit -m"yeni dosya oluşturuldu"
+  467  git push origin main
+  468  touch main_test.txt
+  469  git add .
+  470  git commit -m"yeni dosya oluşturuldu"
+  471  git push origin main
+  472  git branch
+  473  git branch develop
+  474  git branch
+  475  git checkout develop
+  476  git branch
+  477  git add .
+  478  git commit -m"yeni dal oluşturuldu"
+  479  git push origin develop
+  480  git branch
+  481  touch develop_test.txt
+  482  git add .
+  483  git commit -m"develop dalında yeni dosya olustu"
+  484  git push origin develop
+  485  git add .
+  486  git commit -m"develop dosyasında değişiklik yapıldı"
+  487  git push origin develop
+  488  git branch
+  489  git checkout main
+  490  git branch
+  491  git merge develop
+  492  git log
+  493  pwd
+  494  cd desktop
+  495  git clone https://github.com/Ezelk/HY_10.git
+  496  cd HY_10
+  497  git add .
+  498  git commit -m"update oldu"
+  499  git push origin main
+  500  touch main_test.txt
+  501  git add .
+  502  git commit -m"yeni dosya olustu"
+  503  git push origin main
+  504  git branch develop
+  505  git branch
+  506  git checkout develop
+  507  git branch
+  508  git add .
+  509  git commit -m"yeni dal oluştu"
+  510  git push origin develop
+  511  git branch
+  512  touch develop_test.txt
+  513  git add .
+  514  git commit -m"yeni dosya oldu"
+  515  git push origin develop
+  516  git add .
+  517  git commit -m"yeni dosya"
+  518  git push origin develop
+  519  git checkout main
+  520  git merge develop
+  521  git add .
+  522  git commit -m"dallar birleşti main üzerinde"
+  523  git push origin main
+  524  history>command_list.csv
